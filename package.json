@@ -1,0 +1,9 @@
+{
+  "name": "dancing-copter",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "*",
+    "util": "*",
+    "ar-drone": "*"
+  }
+}
